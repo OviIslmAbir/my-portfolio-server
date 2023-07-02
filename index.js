@@ -32,7 +32,8 @@ app.get('/jsProjects', (req, res) =>{
 })
 
 app.get('/htmlProjects', (req, res) =>{
-    res.send(htmlProjects)
+    res.send(htmlProjects
+        )
 })
 
 
