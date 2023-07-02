@@ -1,0 +1,20 @@
+[
+    {
+        "id": "6",
+        "name": "AI Universe Hub",
+        "details": "AI Universe Hub is a Javascript web application",
+        "img": "https://i.ibb.co/gwfWcBC/velvety-beignet-8da56b-netlify-app.png" ,
+        "liveLink": "https://velvety-beignet-8da56b.netlify.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/AI-Universe-Hub",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "7",
+        "name": "Interactive Geometry Book",
+        "details": "Interactive Geometry Book is a Javascript web application",
+        "img": "https://i.ibb.co/Wvp60r4/superlative-squirrel-a1b4e7-netlify-app.png" ,
+        "liveLink": "https://superlative-squirrel-a1b4e7.netlify.app/#",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Geometry-Book",
+        "serverSiteCode": ""
+    }
+]

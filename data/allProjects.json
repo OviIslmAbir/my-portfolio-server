@@ -16,5 +16,68 @@
         "liveLink": "https://toy-land-28b08.web.app/",
         "clintSiteCode": "https://github.com/OviIslmAbir/toyLand-client-site",
         "serverSiteCode": "https://github.com/OviIslmAbir/toyLand-server-site"
+    },
+    {
+        "id": "3",
+        "name": "Cheflo",
+        "details": "Cheflo is a MERN stack application",
+        "img": "https://i.ibb.co/f1KsXd5/cheflo-5a75c-web-app.png" ,
+        "liveLink": "https://cheflo-5a75c.web.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Cheflo-client-site",
+        "serverSiteCode": "https://github.com/OviIslmAbir/Cheflo-server-site"
+    },
+    {
+        "id": "4",
+        "name": "Job Hunter",
+        "details": "Job Hunter is a react web application",
+        "img": "https://i.ibb.co/frk0rwX/chipper-malasada-f9e925-netlify-app.png" ,
+        "liveLink": "https://chipper-malasada-f9e925.netlify.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/job-hunter",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "5",
+        "name": "Knowledge Cafe",
+        "details": "Knowledge Cafe is a react web application",
+        "img": "https://i.ibb.co/qn5Zfb1/brilliant-beijinho-ce0c2e-netlify-app.png" ,
+        "liveLink": "https://brilliant-beijinho-ce0c2e.netlify.app/#",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Knowledge-Cafe",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "6",
+        "name": "AI Universe Hub",
+        "details": "AI Universe Hub is a Javascript web application",
+        "img": "https://i.ibb.co/gwfWcBC/velvety-beignet-8da56b-netlify-app.png" ,
+        "liveLink": "https://velvety-beignet-8da56b.netlify.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/AI-Universe-Hub",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "7",
+        "name": "Interactive Geometry Book",
+        "details": "Interactive Geometry Book is a Javascript web application",
+        "img": "https://i.ibb.co/Wvp60r4/superlative-squirrel-a1b4e7-netlify-app.png" ,
+        "liveLink": "https://superlative-squirrel-a1b4e7.netlify.app/#",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Geometry-Book",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "8",
+        "name": "Justice",
+        "details": "Justice is a HTML & CSS web application",
+        "img": "https://i.ibb.co/Z6xLpgD/superlative-syrniki-512797-netlify-app.png" ,
+        "liveLink": "https://superlative-syrniki-512797.netlify.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/justice",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "9",
+        "name": "Architects",
+        "details": "Architects is a HTML & CSS web application",
+        "img": "https://i.ibb.co/kcpprXY/oviislmabir-github-io-Assignment-2.png" ,
+        "liveLink": "https://oviislmabir.github.io/Assignment-2/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Assignment-2",
+        "serverSiteCode": ""
     }
 ]

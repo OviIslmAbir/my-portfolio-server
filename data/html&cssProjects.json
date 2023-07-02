@@ -1,0 +1,20 @@
+[
+    {
+        "id": "8",
+        "name": "Justice",
+        "details": "Justice is a HTML & CSS web application",
+        "img": "https://i.ibb.co/Z6xLpgD/superlative-syrniki-512797-netlify-app.png" ,
+        "liveLink": "https://superlative-syrniki-512797.netlify.app/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/justice",
+        "serverSiteCode": ""
+    },
+    {
+        "id": "9",
+        "name": "Architects",
+        "details": "Architects is a HTML & CSS web application",
+        "img": "https://i.ibb.co/kcpprXY/oviislmabir-github-io-Assignment-2.png" ,
+        "liveLink": "https://oviislmabir.github.io/Assignment-2/",
+        "clintSiteCode": "https://github.com/OviIslmAbir/Assignment-2",
+        "serverSiteCode": ""
+    }
+]
